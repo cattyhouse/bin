@@ -1,4 +1,4 @@
-- useful binary
+# useful binary
 - release syntax 
   - `tag=${name}-${version}`
   - `binary=${name}-${version}-$(uname -m)`
